@@ -1,3 +1,9 @@
+/*!
+*	jQuery Dialog Crop v0.1 released under MIT License
+*	Author: Pedro Marcelo <pedromarcelodesaalves@gmail.com>
+*	https://github.com/pedromarcelojava/jQuery-Dialog-Crop
+*/
+
 (function($){
 	$.initDialogCropOptions = function(options) {
 		if (typeof options === "undefined") options = {};
